@@ -6,5 +6,5 @@ So I had to setup this jsonserver to work with my Reactjs libros-app
 
 Run this server befor starting libros-app, On the jsonserver forlder use:
 
-npm run json:server
+>npm run json:server
 
