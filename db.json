@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "id": "044783ca-c86e-495c-a40f-a2e26adeee4f",
+      "name": "blair",
+      "category": "terror"
+    },
+    {
+      "id": "3bb38a79-962a-4a03-b597-8563f9509f1b",
+      "name": "unfaithful",
+      "category": "drama"
+    },
+    {
+      "id": "3df56fc7-f058-4bda-81de-e7402c650966",
+      "name": "sahara",
+      "category": "filosofy"
+    },
+    {
+      "id": "6347628d-bbe6-45a6-8e5c-02e650053a26",
+      "name": "harry potter",
+      "category": "fiction"
+    },
+    {
+      "id": "c56cfdd6-7e76-4b6b-b6aa-6da00ee91958",
+      "name": "the lord of the rings",
+      "category": "fiction"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jasonserver",
+  "version": "1.0.0",
+  "description": "NO hay database de a deveras",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jason-server": "^3.0.0"
+  }
+}
