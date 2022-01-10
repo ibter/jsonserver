@@ -1,5 +1,5 @@
 When searching for the latest version of laravel there was no version compatible with Windows 8.1 (my pc)
-So I had to setup this jsonserver to work with my libros-app
+So I had to setup this jsonserver to work with my Reactjs libros-app
 
 
 
